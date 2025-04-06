@@ -1,5 +1,5 @@
 
-# Uber Data Analytics | Modern Data Engineering with GCP 
+# Uber Data Analytics | Data Engineering with GCP 
 
 ## Introduction
 
