@@ -1,6 +1,5 @@
-# uber_data_analytics
 
-# Uber Data Analytics | Modern Data Engineering GCP Project
+# Uber Data Analytics | Modern Data Engineering with GCP 
 
 ## Introduction
 
