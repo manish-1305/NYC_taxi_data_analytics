@@ -1,9 +1,9 @@
 
-# Uber Data Analytics | Data Engineering with GCP 
+# NYC Taxi Data Analytics | Data Engineering with GCP 
 
 ## Introduction
 
-This project aims to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+This project aims to perform data analytics on NYC taxi data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
 <img src="architecture.jpg">
